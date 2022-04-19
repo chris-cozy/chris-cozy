@@ -1,6 +1,9 @@
-### Welcome, I'm Cozy 👋  <br>
+<div id= "title" align="center">
+  <h1>Welcome, I'm Cozy 👋</h1>
+</div>
+<br>
 
-<div id="badges" align="center">
+<div id="buttons" align="center">
   <a href="https://www.linkedin.com/in/chris-sanders-jr">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -21,6 +24,7 @@
   <img src="https://media.giphy.com/media/4NvtQaVwUb4t0bYNY5/giphy.gif" width="500"/>
 </div>
 
+<hr>
 <br>
 
 <b>About Me </b> <br>
@@ -39,9 +43,32 @@ An aspiring software engineer/developer that enjoys writing, programming, art, a
 <!-- - 🤔 I’m looking for help with ... <br> -->
 
 <br>
-<b> My Github Stats</b>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chris-cozy&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<b>Languages and Tools</b>
+<div id ="badges">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="intelliJ" alt="intelliJ" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" alt="VScode" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VS" alt="VS" width="40" height="40">
+</div>
+<br>
+<b> My Github Stats</b><br>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chris-cozy&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<br>
+<!---
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chris-cozy&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+--->
 <!--
 **chris-cozy/chris-cozy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
