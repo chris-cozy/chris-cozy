@@ -65,6 +65,11 @@ An aspiring software engineer/developer that enjoys writing, programming, art, a
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chris-cozy&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chris-cozy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
 <!---
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chris-cozy&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 --->
