@@ -39,7 +39,7 @@ An aspiring software engineer/developer that enjoys writing, programming, art, a
 - 💬 Ask me about my projects <br>
 - 📫 How to reach me: csande9@clemson.edu <br>
 - 😄 Pronouns: He/Him <br>
-- ⚡ Fun fact: I also write, and am an artist <br>
+- ⚡ Fun fact: I also write, am an artist, and love nature <br>
 <!-- - 🤔 I’m looking for help with ... <br> -->
 
 <br>
