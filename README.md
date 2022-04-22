@@ -15,7 +15,7 @@
   </a>
 </div>
 <div id ="visitors" align="center">
-  <img src="https://komarev.com/ghpvc/?username=chris-cozy&style=flat-square&color=blue" alt=""/><br>
+  <img src="https://komarev.com/ghpvc/?username=chris-coz&style=flat-square&color=blue" alt=""/><br>
 </div>
 
 <!---<br>![visitors](https://visitor-badge.glitch.me/badge?page_id=${chris-cozy})<br>--->
