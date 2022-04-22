@@ -14,10 +14,11 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<!--
 <div id ="visitors" align="center">
   <img src="https://komarev.com/ghpvc/?username=chris-cozy&style=flat-square&color=blue" alt=""/><br>
 </div>
-
+-->
 <!---<br>![visitors](https://visitor-badge.glitch.me/badge?page_id=${chris-cozy})<br>--->
 
 <div id="header" align="center">
