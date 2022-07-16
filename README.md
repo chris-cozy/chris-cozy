@@ -33,9 +33,9 @@ I am an undergraduate student at Clemson University pursuing my Bachelor's in Co
 An aspiring software engineer/developer that enjoys writing, programming, art, and more.<br>
 
 <b>Personal Talks</b> <br>
-- 🔭 I’m currently working on refactoring my project organization <br>
-- 🔖 I'm currently reading Cracking the Coding Interview, and Dark Life. <br>
-- 🌱 I’m currently learning Python and Javascript <br>
+- 🔭 I’m currently working on a personal project <br>
+- 🔖 I'm currently reading Cracking the Coding Interview, Meditations, and Dune. <br>
+- 🌱 I’m currently learning Javascript <br>
 - 👯 I’m looking to collaborate on open-source projects <br>
 - 💬 Ask me about my projects <br>
 - 📫 How to reach me: csande9@clemson.edu <br>
