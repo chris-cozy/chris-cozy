@@ -35,7 +35,7 @@ An aspiring software engineer/developer that enjoys writing, programming, art, a
 <b>Personal Talks</b> <br>
 - 🔭 I’m currently working on a personal project <br>
 - 🔖 I'm currently reading Cracking the Coding Interview, Meditations, and Dune. <br>
-- 🌱 I’m currently learning Javascript <br>
+- 🌱 I’m currently learning Web Development <br>
 - 👯 I’m looking to collaborate on open-source projects <br>
 - 💬 Ask me about my projects <br>
 - 📫 How to reach me: csande9@clemson.edu <br>
