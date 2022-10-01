@@ -33,14 +33,14 @@ I am an undergraduate student at Clemson University pursuing my Bachelor's in Co
 An aspiring software engineer/developer that enjoys writing, programming, art, and more.<br>
 
 <b>Personal Talks</b> <br>
-- 🔭 I’m currently working on a personal project <br>
-- 🔖 I'm currently reading Cracking the Coding Interview, Remina, and Dune. <br>
-- 🌱 I’m currently learning Javascript <br>
+- 🔭 I’m currently working on syntactic-search <br>
+- 🔖 I'm currently reading Dune <br>
+- 🌱 I’m currently learning Javascript, Unity development, Full-Stack Development (MERN), Japanese <br>
 - 👯 I’m looking to collaborate on open-source projects <br>
 - 💬 Ask me about my projects <br>
 - 📫 How to reach me: csande9@clemson.edu <br>
 - 😄 Pronouns: He/Him <br>
-- ⚡ Fun fact: I also write, am an artist, and love nature <br>
+- ⚡ Fun fact: I also write, am an artist, and love nature. <br>
 <!-- - 🤔 I’m looking for help with ... <br> -->
 
 <br>
