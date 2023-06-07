@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/chris-sanders-jr">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href=""https://www.youtube.com">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://twitter.com/csandery">
@@ -33,12 +33,12 @@ I am an undergraduate student at Clemson University pursuing my Bachelor's in Co
 I am a growing software engineer/developer that enjoys coding, art, fashion, and more.<br>
 
 <b>Personal Talks</b> <br>
-- 🔭 I’m currently working on [syntactic-search](https://github.com/chris-cozy/syntactic-search) <br>
-- 🔖 I'm currently reading Dune <br>
+- 🔭 I’m currently working on [discord-kiby (private)](https://github.com/chris-cozy/discord-kiby) <br>
+- 🔖 I'm currently reading Atomic Habits <br>
 - 🌱 I’m currently learning Javascript, Unity development, Full-Stack Development (MERN), Japanese <br>
 - 👯 I’m looking to collaborate on open-source projects <br>
 - 💬 Ask me about my projects <br>
-- 📫 How to reach me: csande9@clemson.edu <br>
+- 📫 How to reach me: cjsanders100@gmail.com <br>
 - 😄 Pronouns: He/Him <br>
 - ⚡ Fun fact: I'm also an author, an artist, and love nature. <br>
 <!-- - 🤔 I’m looking for help with ... <br> -->
