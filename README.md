@@ -29,8 +29,15 @@
 <br>
 
 <b>About Me </b> <br>
-I am an undergraduate student at Clemson University pursuing my Bachelor's in Computer Science. <br>
-I am a growing software engineer/developer that enjoys coding, art, fashion, and more.<br>
+I'm a growing software engineer/developer who finds pure bliss in the world of coding. But life's not just about lines of code, I'm also all about embracing the beauty of art, the ever-changing realm of fashion, and so much more.
+
+For me, software development is like an art form. It's a chance to bring imagination to life through elegant and functional solutions. Whether I'm crafting a sleek website or diving deep into complex algorithms, I'm constantly fueled by the passion to create something extraordinary.
+
+When I'm not lost in the world of code, you can find me exploring the vibrant intersections of art, where creativity knows no bounds. From sketching captivating designs to delving into digital artistry, I embrace every opportunity to unleash my artistic side.
+
+Oh, and fashion? It's more than just clothes for me. It's a form of self-expression, a way to tell a story through style. I love experimenting with different trends, discovering unique fashion statements, and staying ahead of the curve.
+
+Life's too short to be confined to a single passion. So, let's embark on this exhilarating journey together, where coding, art, fashion, and beyond intertwine. If you're curious to see how my passions translate into captivating projects, join me and let's explore the limitless possibilities of software engineering 💻✨<br>
 
 <b>Personal Talks</b> <br>
 - 🔭 I’m currently working on [discord-kiby (private)](https://github.com/chris-cozy/discord-kiby) <br>
