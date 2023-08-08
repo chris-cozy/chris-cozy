@@ -1,5 +1,5 @@
 <div id= "title" align="center">
-  <h1>Welcome, I'm Cozy 👋</h1>
+  <h1>Welcome, I'm Cozy ☕</h1>
 </div>
 <br>
 
@@ -7,9 +7,11 @@
   <a href="https://www.linkedin.com/in/chris-sanders-jr">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <!--
   <a href=""https://www.youtube.com">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
+  -->
   <a href="https://twitter.com/csandery">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
@@ -22,7 +24,7 @@
 <!---<br>![visitors](https://visitor-badge.glitch.me/badge?page_id=${chris-cozy})<br>--->
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/4NvtQaVwUb4t0bYNY5/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif" width="500"/>
 </div>
 
 <hr>
