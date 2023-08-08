@@ -35,15 +35,15 @@ For me, software development is like an art form. It's a chance to bring imagina
 
 When I'm not lost in the world of code, you can find me exploring the vibrant intersections of art, where creativity knows no bounds. From sketching captivating designs to delving into digital artistry, I embrace every opportunity to unleash my artistic side.
 
-Oh, and fashion? It's more than just clothes for me. It's a form of self-expression, a way to tell a story through style. I love experimenting with different trends, discovering unique fashion statements, and staying ahead of the curve.
+Fashion is more than just clothes for me. It's a form of self-expression, a way to tell a story through style. I love experimenting with different trends, discovering unique fashion statements, and staying ahead of the curve.
 
 Life's too short to be confined to a single passion. So, let's embark on this exhilarating journey together, where coding, art, fashion, and beyond intertwine. If you're curious to see how my passions translate into captivating projects, join me and let's explore the limitless possibilities of software engineering 💻✨<br>
 
 <b>Personal Talks</b> <br>
-- 🔭 I’m currently working on [discord-kiby (private)](https://github.com/chris-cozy/discord-kiby) <br>
+- 🔭 I’m currently working on [Connectify](https://github.com/chris-cozy/connectify) <br>
 - 🔖 I'm currently reading Atomic Habits <br>
-- 🌱 I’m currently learning Javascript, Unity development, Full-Stack Development (MERN), Japanese <br>
-- 👯 I’m looking to collaborate on open-source projects <br>
+- 🌱 I’m currently learning React, Bootstrap, Japanese <br>
+- 👯 I’m open to collaborate on open-source projects <br>
 - 💬 Ask me about my projects <br>
 - 📫 How to reach me: cjsanders100@gmail.com <br>
 - 😄 Pronouns: He/Him <br>
