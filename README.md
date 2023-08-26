@@ -42,9 +42,9 @@ Fashion is more than just clothes for me. It's a form of self-expression, a way 
 Life's too short to be confined to a single passion. So, let's embark on this exhilarating journey together, where coding, art, fashion, and beyond intertwine. If you're curious to see how my passions translate into captivating projects, join me and let's explore the limitless possibilities of software engineering 💻✨<br>
 
 <b>Personal Talks</b> <br>
-- 🔭 I’m currently working on [InnerSpace](https://github.com/chris-cozy/innerspace) <br>
+- 🔭 I’m currently working on [SytheticSoul](https://github.com/chris-cozy/SyntheticSoul) <br>
 - 🔖 I'm currently reading Atomic Habits <br>
-- 🌱 I’m currently learning React, Bootstrap, Japanese <br>
+- 🌱 I’m currently learning React, CSS, DSA, Japanese <br>
 - 👯 I’m open to collaborate on open-source projects <br>
 - 💬 Ask me about my projects <br>
 - 📫 How to reach me: cjsanders100@gmail.com <br>
