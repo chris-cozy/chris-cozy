@@ -5,13 +5,11 @@
 
 <div id="buttons" align="center">
   <a href="https://www.linkedin.com/in/chris-sanders-jr">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <!--
-  <a href=""https://www.youtube.com">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://www.instagram.com/chriscozy/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  -->
   <a href="https://twitter.com/csandery">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
@@ -31,15 +29,15 @@
 <br>
 
 <b>About Me </b> <br>
-I'm a growing software engineer/developer who finds pure bliss in the world of coding. But life's not just about lines of code, I'm also all about embracing the beauty of art, the ever-changing realm of fashion, and so much more.
+I build software, and find bliss playing in the digital sandbox know as code. Software development is an art form, a bridge between imagination and reality, constructed with elegant and functional solutions. With a strong foundation in backend development and growing expertise in frontend design, I traverse that bridge often.
 
-For me, software development is like an art form. It's a chance to bring imagination to life through elegant and functional solutions. Whether I'm crafting a sleek website or diving deep into complex algorithms, I'm constantly fueled by the passion to create something extraordinary.
+From crafting sleek web applications to simulating human emotion with the power of language models, I follow my passion of experiencing, learning, and creating.
 
-When I'm not lost in the world of code, you can find me exploring the vibrant intersections of art, where creativity knows no bounds. From sketching captivating designs to delving into digital artistry, I embrace every opportunity to unleash my artistic side.
+Beyond the realm of software development, I seek expression in other areas. Whether it's exploring our world, creating and appreciating visual art, getting lost in novels, refining my fashion, or adventuring in virtual universes, I'm always finding beauty in this one life we have.
 
-Fashion is more than just clothes for me. It's a form of self-expression, a way to tell a story through style. I love experimenting with different trends, discovering unique fashion statements, and staying ahead of the curve.
+Let's connect and appreciate the synergy of art and technology. Together, we can leave a positive mark on this evolving digital landscape.<br>
 
-Life's too short to be confined to a single passion. So, let's embark on this exhilarating journey together, where coding, art, fashion, and beyond intertwine. If you're curious to see how my passions translate into captivating projects, join me and let's explore the limitless possibilities of software engineering 💻✨<br>
+Visit my portfolio [Cozy - Developer Portfolio](https://chriscozy.netlify.app/#about) <br>
 
 <b>Personal Talks</b> <br>
 - 🔭 I’m currently working on [SytheticSoul](https://github.com/chris-cozy/SyntheticSoul) <br>
