@@ -40,7 +40,7 @@ Let's connect and appreciate the synergy of art and technology. Together, we can
 Visit my portfolio [Cozy - Developer Portfolio](https://chriscozy.netlify.app/#about) <br>
 
 <b>Personal Talks</b> <br>
-- 🔭 I’m currently working on [SytheticSoul](https://github.com/chris-cozy/SyntheticSoul) <br>
+- 🔭 I’m currently working on [Synthetic Soul](https://github.com/chris-cozy/SyntheticSoul) <br>
 - 🔖 I'm currently reading Percy Jackson: The Battle of the Labyrinth <br>
 - 🌱 I’m currently learning Unity <br>
 - 👯 I’m open to collaborate on open-source projects <br>
