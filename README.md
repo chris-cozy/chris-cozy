@@ -41,12 +41,11 @@ Visit my portfolio [Cozy - Developer Portfolio](https://chriscozy.netlify.app/#a
 
 <b>Personal Talks</b> <br>
 - 🔭 I’m currently working on [SytheticSoul](https://github.com/chris-cozy/SyntheticSoul) <br>
-- 🔖 I'm currently reading Atomic Habits <br>
-- 🌱 I’m currently learning React, CSS, DSA, Japanese <br>
+- 🔖 I'm currently reading Percy Jackson: The Battle of the Labyrinth <br>
+- 🌱 I’m currently learning Unity <br>
 - 👯 I’m open to collaborate on open-source projects <br>
 - 💬 Ask me about my projects <br>
-- 📫 How to reach me: cjsanders100@gmail.com <br>
-- 😄 Pronouns: He/Him <br>
+- 📫 How to reach me: through my portfolio <br>
 - ⚡ Fun fact: I'm also an author, an artist, and love nature. <br>
 <!-- - 🤔 I’m looking for help with ... <br> -->
 
